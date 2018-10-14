@@ -5,4 +5,4 @@ import TodoListApp from "./TodoListApp";
 
 import "./index.css";
 
-ReactDOM.render(<TodoListApp name="<Your name here>" />, document.getElementById("root"));
+ReactDOM.render(<TodoListApp name="Jason" />, document.getElementById("root"));
